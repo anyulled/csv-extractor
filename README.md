@@ -1,6 +1,6 @@
-# Luma Extractor
+# CSV Extractor
 
-A Rust application that extracts and transforms specific data from Luma CSV export files using DuckDB.
+A 🦀 Rust application that extracts and transforms specific data from Luma CSV export files using 🦆 DuckDB.
 
 ## Features
 
